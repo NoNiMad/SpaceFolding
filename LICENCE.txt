@@ -9,7 +9,7 @@
 #-------------------------------------------------------------------------------
 @author NoNiMad
 
-This code is the property of and owned and copyrighted by Reika.
+This code is the property of and owned and copyrighted by NoNiMad.
 This code is provided under a modified visible-source license that is as follows:
 
 Any and all users are permitted to use the source for educational purposes, or to create derivative works
