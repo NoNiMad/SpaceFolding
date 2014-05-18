@@ -9,7 +9,7 @@
 #-------------------------------------------------------------------------------
 @author NoNiMad
 
-This code is the property of and owned and copyrighted by Reika.
+This code is the property of and owned and copyrighted by NoNiMad.
 This code is provided under a modified visible-source license that is as follows:
 
 Any and all users are permitted to use the source for educational purposes, or to create derivative works
@@ -33,4 +33,4 @@ may distribute compiled binary versions of this code.
 Failure to comply with these restrictions is a violation of copyright law and will be dealt with accordingly.
 
 -- This licence model comes from Reika Kalseki : https://github.com/ReikaKalseki/RotaryCraft/blob/master/License.txt
--- If there's any problem with using the same Licence than you, just say it i'll remove/change that file
+If there's any problem with using the same Licence than you, just say it i'll remove/change that file
